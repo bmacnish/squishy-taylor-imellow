@@ -10,9 +10,9 @@ function App() {
     setToken(password);
   };
 
-  // if (!token || token.value !== "growth") {
-  //   return <Login handleSubmit={handleSubmit} />;
-  // }
+  if (!token || token.value !== "growth") {
+    return <Login handleSubmit={handleSubmit} />;
+  }
 
   return (
     <>
