@@ -1,13 +1,86 @@
+:root {
+  --cream-can: #f2c75c;
+  --brandy-punch: #dc8633;
+  --half-baked: #86c8bc;
+  --orange-roughy: #be531c;
+  --mule-fawn: #8d3f2b;
+  --cornflower: #a7c6ed;
+  --nugget: #c1a01f;
+  --shadow: #89764b;
+  --vista-blue: #8fd6bd;
+
+  --lincoln-green: #3f6634;
+  --artichoke: #9ea290;
+  --indigo-dye: #133c55;
+  --mellon: #ffc2b4;
+}
+
 html,
 body,
 #reactapp,
 .App {
-  height: 100%;
-}
-.App {
-  display: flex;
+  background: url("../../media/bg_planting.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .wrapper {
-  padding: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 100%;
+  margin: 5% 10%;
+}
+
+header {
+  color: white;
+  height: 10%;
+}
+
+nav li {
+  background-color: var(--indigo-dye);
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: var(--mellon);
+  padding-top: 4px;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+}
+article {
+  padding: 4%;
+  background-color: var(--artichoke);
+  display: flex;
+  flex: 2;
+}
+
+aside {
+  padding: 4%;
+  border: 1px solid black;
+}
+
+footer {
+  padding: 2%;
+  background-color: var(--indigo-dye);
+  color: var(--mellon);
+}
+
+.asideWrapper {
+  background-color: var(--lincoln-green);
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.pageReference {
+  border-radius: 16px;
+  border: 2px double black;
+  background-color: var(--nugget);
 }
