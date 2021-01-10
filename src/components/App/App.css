@@ -19,7 +19,11 @@ html,
 body,
 #reactapp,
 .App {
-  background: url("../../media/bg_planting.jpg") no-repeat center center fixed;
+  margin: 0;
+}
+
+.backgroundImage {
+  background: url("../../media/bg_wood.jpeg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -31,7 +35,7 @@ body,
   flex: 1;
   flex-direction: column;
   height: 100%;
-  margin: 5% 10%;
+  padding: 5% 10%;
 }
 
 header {
@@ -55,14 +59,17 @@ body {
 }
 article {
   padding: 4%;
-  background-color: var(--artichoke);
+  background-color: var(--mellon);
   display: flex;
   flex: 2;
 }
 
 aside {
+  margin: 4%;
   padding: 4%;
-  border: 1px solid black;
+  border: 1px;
+  background-color: var(--artichoke);
+  box-shadow: 5px 10px #888888;
 }
 
 footer {
@@ -72,7 +79,7 @@ footer {
 }
 
 .asideWrapper {
-  background-color: var(--lincoln-green);
+  background-image: url(../../media/bg_planting.jpg);
   display: flex;
   flex: 1;
   justify-content: space-around;
@@ -81,6 +88,10 @@ footer {
 
 .pageReference {
   border-radius: 16px;
-  border: 2px double black;
   background-color: var(--nugget);
+  box-shadow: none;
+}
+
+h1 {
+  text-shadow: 1px 1px 2px black;
 }

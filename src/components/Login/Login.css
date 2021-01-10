@@ -1,12 +1,12 @@
-.login-wrapper {
+.loginWrapper {
+  height: 100vh;
   display: flex;
-  flex: 1;
-  align-items: center;
+  align-content: center;
   justify-content: center;
-  height: calc(100vh);
-  text-align: center;
+  flex-direction: column;
 }
 
-input {
-  margin-bottom: 4%;
+.errorMessage {
+  color: red;
+  padding-bottom: 10px;
 }
