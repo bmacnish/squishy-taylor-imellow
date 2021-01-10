@@ -65,7 +65,7 @@ article {
 }
 
 aside {
-  margin: 4%;
+  margin: 10% 4%;
   padding: 4%;
   border: 1px;
   background-color: var(--artichoke);
@@ -82,7 +82,6 @@ footer {
   background-image: url(../../media/bg_planting.jpg);
   display: flex;
   flex: 1;
-  justify-content: space-around;
   flex-direction: column;
 }
 
