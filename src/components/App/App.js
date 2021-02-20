@@ -40,7 +40,7 @@ function App() {
               <h4>Contact</h4>
             </li>
           </nav>
-          <body>
+          <div className="body">
             <article>
               <h2>Hi there.</h2>
 
@@ -102,8 +102,14 @@ function App() {
               <ul>
                 Be kind to each other and be kind to the world we live in!
               </ul>
+              <div className="pageReference">
+                <h4>Turn to page 26</h4>
+              </div>
             </article>
             <div className="asideWrapper d-none d-sm-block">
+              <aside>
+                <h2>Member Contributions</h2>
+              </aside>
               <aside>
                 <h4>Why I Love the Golden Wattle</h4>
                 <Image
@@ -112,10 +118,9 @@ function App() {
                   fluid
                 />
                 <p>
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                  occaecat cupidatat non proident, sunt in culpa qui officia
-                  deserunt mollit anim id est laborum.
+                  The flowers of the Golden Wattle have always reminded me
+                  of the fluffy yellow chicken decorations you see at Easter 
+                  time decorating eggs, bonnets and baskets!
                 </p>
               </aside>
               <aside>
@@ -126,17 +131,14 @@ function App() {
                   fluid
                 />
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  The story of the Wollemi Pine is one of a adventure, mystery
+                  and the astonishing discovery of an ancient tree that
+                  has grown since the time of the dinosaurs and yet managed to
+                  stay hidden from humans until just a few decades ago.
                 </p>
               </aside>
-              <aside className="pageReference">
-                <h4>Turn to page XXX</h4>
-              </aside>
             </div>
-          </body>
+          </div>
           <footer>
             <h4>
               "Our work is not yet done" - Anonymous Guerilla Gardener, 2021
