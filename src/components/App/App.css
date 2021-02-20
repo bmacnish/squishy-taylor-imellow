@@ -80,6 +80,7 @@ footer {
 
 .asideWrapper {
   background-image: url(../../media/bg_planting.jpg);
+  background-size: cover;
   display: flex;
   flex: 1;
   flex-direction: column;
