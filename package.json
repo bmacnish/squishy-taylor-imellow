@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "15.x"
+    "node": "15.9.0"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -21,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "rmnm": "rm -rf node_modules",
+    "reset": "yarn rmnm && yarn"
   },
   "eslintConfig": {
     "extends": [

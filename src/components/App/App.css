@@ -64,6 +64,12 @@ article {
   flex: 2;
 }
 
+.extraInformation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
 aside {
   margin: 10% 4%;
   padding: 4%;

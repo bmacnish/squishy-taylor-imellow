@@ -5,8 +5,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import goldenWattle from "../../media/yellow_wattle.jpg";
 import wollemi from "../../media/wollemi-pine.jpg";
 import Image from "react-bootstrap/Image";
+import AudioPlayer from "../AudioPlayer/AudioPlayer"
 
-const FAKE_PASSWORD = "growth";
+const FAKE_PASSWORD = "waratah unveiled";
 
 function App() {
   const [token, setToken] = useState();
@@ -30,7 +31,7 @@ function App() {
       <div className="backgroundImage">
         <div className="wrapper">
           <header>
-            <h1>We Are The Guerilla Gardeners</h1>
+            <h1>We Are The Guerrilla Gardeners</h1>
           </header>
           <nav class="d-none d-sm-block">
             <li>
@@ -102,8 +103,11 @@ function App() {
               <ul>
                 Be kind to each other and be kind to the world we live in!
               </ul>
-              <div className="pageReference">
-                <h4>Turn to page 26</h4>
+              <div className="extraInformation">
+                <div className="pageReference">
+                  <h4>Turn to page 22</h4>
+                </div>
+                  <AudioPlayer />
               </div>
             </article>
             <div className="asideWrapper d-none d-sm-block">
@@ -134,14 +138,14 @@ function App() {
                   The story of the Wollemi Pine is one of a adventure, mystery
                   and the astonishing discovery of an ancient tree that
                   has grown since the time of the dinosaurs and yet managed to
-                  stay hidden from humans until just a few decades ago.
+                  stay hidden from science until just a few decades ago.
                 </p>
               </aside>
             </div>
           </div>
           <footer>
             <h4>
-              "Our work is not yet done" - Anonymous Guerilla Gardener, 2021
+              "Our work is not yet done" - Anonymous Guerrilla Gardener, 2021
             </h4>
           </footer>
         </div>

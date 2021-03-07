@@ -51,8 +51,7 @@ export default function Login({ handleSubmit }) {
           <Col />
           <Col xs={12} sm={true}>
             <p>
-              The meaning of the ZHEWXG PTMMEX is a puzzle, solve it to discover
-              our password.
+              The password is DHYHAHO BUCLPSLK
             </p>
             <Form onSubmit={onSubmit}>
               <Form.Group controlId="formBasicPassword">
