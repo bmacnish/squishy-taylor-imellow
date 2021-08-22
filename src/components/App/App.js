@@ -93,15 +93,17 @@ function App() {
 
               <p>It’s easy!</p>
               <h3>Our rules are:</h3>
-              <ul>Plant seeds in your own time </ul>
-              <ul>Plant seeds at night </ul>
               <ul>
+              <li>Plant seeds in your own time </li>
+              <li>Plant seeds at night </li>
+              <li>
                 Come back to see your seeds sprouting and marvel in the
                 magnificence of plant life!
-              </ul>
-              <ul>Don’t trespass or ruin other people’s things</ul>
-              <ul>
+              </li>
+              <li>Don’t trespass or ruin other people’s things</li>
+              <li>
                 Be kind to each other and be kind to the world we live in!
+              </li>
               </ul>
               <div className="extraInformation">
                 <div className="pageReference">
@@ -144,9 +146,9 @@ function App() {
             </div>
           </div>
           <footer>
-            <h4>
-              "Our work is not yet done" - Anonymous Guerrilla Gardener, 2021
-            </h4>
+              <h4>
+                "Our work is not yet done" - Anonymous Guerrilla Gardener, 2021
+              </h4>
           </footer>
         </div>
       </div>
