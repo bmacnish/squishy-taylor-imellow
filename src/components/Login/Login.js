@@ -14,6 +14,7 @@ export default function Login({ handleSubmit }) {
   const [attempt, setAttempt] = useState(0)
 
   const handleChange = (event) => {
+    setErrors(false)
     const input = event.target.value;
     const lowercasedInput = input.toLowerCase();
     setPassword({ value: lowercasedInput });
@@ -27,10 +28,6 @@ export default function Login({ handleSubmit }) {
 
     handleSubmit(password);
   };
-
-  function clearErrors() {
-    setErrors(false)
-  }
 
   function Errors() {
     let errorMessage = ''
@@ -90,7 +87,6 @@ export default function Login({ handleSubmit }) {
                   type="password"
                   placeholder="Password"
                   onChange={handleChange}
-                  onFocus={clearErrors}
                 />
               </Form.Group>
               <Errors />
