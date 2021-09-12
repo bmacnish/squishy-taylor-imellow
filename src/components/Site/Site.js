@@ -43,41 +43,23 @@ export default function Site() {
                 <p>
                     We’re doctors. We’re security guards. We’re taxi drivers. We’re
                     lawyers. We’re teachers. We’re students. We’re football players.
-                    We’re anyone and everyone who loves to plant seeds. In this way,
-                    we spread the beauty and diversity of flowers, shrubs, grasses
-                    or trees in all sorts of places all over our city.
+                    We’re anyone and everyone who loves to plant seeds. We spread the 
+                    beauty and diversity of flowers, shrubs, grassesor trees in all 
+                    sorts of places all over our city.
                 </p>
 
                 <p>
-                    We plant things at night, in our time, in our own gardens and
-                    homes.
-                </p>
-
-                <p>We plant things across the whole city.</p>
-
-                <p>We love to have nature close to us.</p>
-
-                <p>
-                    Sometimes we meet up in person at certain locations—never the
-                    same place twice, never all of us at once either.
-                </p>
-
-                <p>
-                    When we meet, we say hello to all the new plants we’ve put into
-                    the earth, and goodbye to those plants that may not have made
-                    it. (And then we sit around and eat corn chips and guacamole!)
+                    We plant things at night — it’s the best time to do it! 
                 </p>
 
                 <p>
                     You might have read what the news has been saying about us.
                     Incredible! They’ve called us ghosts! That’s because sometimes
-                    we wear white and sometimes we move fast. (We literally do have
-                    football players among us!)
+                    we wear white and sometimes we move fast.
                 </p>
 
                 <p>Would you like to join us?</p>
 
-                <p>It’s easy!</p>
                 <h3>Our rules are:</h3>
                 <ul>
                 <li>Plant seeds in your own time </li>
