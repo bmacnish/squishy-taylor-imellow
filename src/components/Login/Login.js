@@ -34,7 +34,7 @@ export default function Login({ handleSubmit }) {
 
     if (errors) {
       if (password.value === ENCODED_FAKE_PASSWORD.toLowerCase()) {
-        errorMessage = "You'll need to crack the code to find our our secrets.";
+        errorMessage = "You'll need to crack the code to find out our secrets.";
 
         return <div className="errorMessage">{errorMessage}</div>;
       }
