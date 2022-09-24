@@ -5,7 +5,7 @@
   "engines": {
     "node": "16.17.1"
   },
-  "homepage": "https://imellow.org/",
+  "homepage": "https://bmacnish.github.io/squishy-taylor-imellow/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
