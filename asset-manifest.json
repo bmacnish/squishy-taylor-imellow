@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/squishy-taylor-imellow/static/css/main.bc926546.chunk.css",
-    "main.js": "/squishy-taylor-imellow/static/js/main.1eda2ff1.chunk.js",
-    "main.js.map": "/squishy-taylor-imellow/static/js/main.1eda2ff1.chunk.js.map",
+    "main.js": "/squishy-taylor-imellow/static/js/main.ead18c24.chunk.js",
+    "main.js.map": "/squishy-taylor-imellow/static/js/main.ead18c24.chunk.js.map",
     "runtime-main.js": "/squishy-taylor-imellow/static/js/runtime-main.6d3eaaa2.js",
     "runtime-main.js.map": "/squishy-taylor-imellow/static/js/runtime-main.6d3eaaa2.js.map",
     "static/js/2.15c83712.chunk.js": "/squishy-taylor-imellow/static/js/2.15c83712.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.6d3eaaa2.js",
     "static/js/2.15c83712.chunk.js",
     "static/css/main.bc926546.chunk.css",
-    "static/js/main.1eda2ff1.chunk.js"
+    "static/js/main.ead18c24.chunk.js"
   ]
 }
