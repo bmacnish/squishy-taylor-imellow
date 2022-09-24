@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/squishy-taylor-imellow/static/css/main.bc926546.chunk.css",
-    "main.js": "/squishy-taylor-imellow/static/js/main.ead18c24.chunk.js",
-    "main.js.map": "/squishy-taylor-imellow/static/js/main.ead18c24.chunk.js.map",
-    "runtime-main.js": "/squishy-taylor-imellow/static/js/runtime-main.6d3eaaa2.js",
-    "runtime-main.js.map": "/squishy-taylor-imellow/static/js/runtime-main.6d3eaaa2.js.map",
-    "static/js/2.15c83712.chunk.js": "/squishy-taylor-imellow/static/js/2.15c83712.chunk.js",
-    "static/js/2.15c83712.chunk.js.map": "/squishy-taylor-imellow/static/js/2.15c83712.chunk.js.map",
-    "static/js/3.26e904e4.chunk.js": "/squishy-taylor-imellow/static/js/3.26e904e4.chunk.js",
-    "static/js/3.26e904e4.chunk.js.map": "/squishy-taylor-imellow/static/js/3.26e904e4.chunk.js.map",
-    "index.html": "/squishy-taylor-imellow/index.html",
-    "static/css/main.bc926546.chunk.css.map": "/squishy-taylor-imellow/static/css/main.bc926546.chunk.css.map",
-    "static/js/2.15c83712.chunk.js.LICENSE.txt": "/squishy-taylor-imellow/static/js/2.15c83712.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/squishy-taylor-imellow/static/media/bg_planting.696bbc08.jpg",
-    "static/media/imellow.a0d1a828.mp3": "/squishy-taylor-imellow/static/media/imellow.a0d1a828.mp3",
-    "static/media/wollemi-pine.20287fae.jpg": "/squishy-taylor-imellow/static/media/wollemi-pine.20287fae.jpg",
-    "static/media/yellow_wattle.26cd4a0c.jpg": "/squishy-taylor-imellow/static/media/yellow_wattle.26cd4a0c.jpg"
+    "main.css": "/www.imellow.org/static/css/main.c48a5aab.chunk.css",
+    "main.js": "/www.imellow.org/static/js/main.ead18c24.chunk.js",
+    "main.js.map": "/www.imellow.org/static/js/main.ead18c24.chunk.js.map",
+    "runtime-main.js": "/www.imellow.org/static/js/runtime-main.78acac3c.js",
+    "runtime-main.js.map": "/www.imellow.org/static/js/runtime-main.78acac3c.js.map",
+    "static/js/2.15c83712.chunk.js": "/www.imellow.org/static/js/2.15c83712.chunk.js",
+    "static/js/2.15c83712.chunk.js.map": "/www.imellow.org/static/js/2.15c83712.chunk.js.map",
+    "static/js/3.26e904e4.chunk.js": "/www.imellow.org/static/js/3.26e904e4.chunk.js",
+    "static/js/3.26e904e4.chunk.js.map": "/www.imellow.org/static/js/3.26e904e4.chunk.js.map",
+    "index.html": "/www.imellow.org/index.html",
+    "static/css/main.c48a5aab.chunk.css.map": "/www.imellow.org/static/css/main.c48a5aab.chunk.css.map",
+    "static/js/2.15c83712.chunk.js.LICENSE.txt": "/www.imellow.org/static/js/2.15c83712.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/www.imellow.org/static/media/bg_planting.696bbc08.jpg",
+    "static/media/imellow.a0d1a828.mp3": "/www.imellow.org/static/media/imellow.a0d1a828.mp3",
+    "static/media/wollemi-pine.20287fae.jpg": "/www.imellow.org/static/media/wollemi-pine.20287fae.jpg",
+    "static/media/yellow_wattle.26cd4a0c.jpg": "/www.imellow.org/static/media/yellow_wattle.26cd4a0c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d3eaaa2.js",
+    "static/js/runtime-main.78acac3c.js",
     "static/js/2.15c83712.chunk.js",
-    "static/css/main.bc926546.chunk.css",
+    "static/css/main.c48a5aab.chunk.css",
     "static/js/main.ead18c24.chunk.js"
   ]
 }
