@@ -79,7 +79,7 @@ export default function Login({ handleSubmit }) {
           <Col />
           <Col xs={12} sm={true}>
             <p>
-              The password is {ENCODED_FAKE_PASSWORD}
+              Can you guess the password {ENCODED_FAKE_PASSWORD}
             </p>
             <Form onSubmit={onSubmit}>
               <Form.Group controlId="formBasicPassword">
